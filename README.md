@@ -15,7 +15,7 @@
 As an experienced Data Base Administrator and Data Analyst, I combine analytical skills, the ability to work in team environments, and attention to detail. Having spent the last years studying Artificial intelligence and data analysis. I developed critical thinking and problem-solving skills.
 My credentials include a Graduation in Physics from the Universidade Federal de Minas Gerais (UFMG), and Graduation in Mechanical Engineering from the Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG).
 
-**Background in:** Python, Machine Learning, MySQL, SQL Server, Educational Robotic and Video Maker.
+**Background in:** Python, Machine Learning, MySQL, SQL Server, AWS, GCP, Educational Robotic.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/guilherme-nazareth/)
